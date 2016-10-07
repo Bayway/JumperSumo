@@ -7,10 +7,11 @@ alt="Demo Project" width="640" height="360" border="5" /></a>
 </div>
 <br />
 
+
 JumperSumo project wants to control a robot "Parrot Jumping Race" through different types of command interfaces (using Android app): 
-- using the Twitter messages to a specific account
+- sending Twitter messages to a specific account
 - using a simple web interface (*included under* **utility** *dir*)
-- with an upluaded file with a specific sequence of commands
+- with an uploaded file with a specific sequence of commands
 
 ## Instructions
 
