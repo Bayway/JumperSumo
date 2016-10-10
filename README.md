@@ -12,6 +12,7 @@ JumperSumo project wants to control a robot "Parrot Jumping Race" through differ
 - sending Twitter messages to a specific account
 - using a simple web interface (*included under* **utility** *dir*)
 - with an uploaded file with a specific sequence of commands
+- reading and executing the commands, through the use of the **OpenCV** library, of qrcode classified by the camera
 
 ## Instructions
 
